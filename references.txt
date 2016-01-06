@@ -1,0 +1,8 @@
+http://doc.akka.io/docs/akka/2.0.1/intro/getting-started-first-scala.html // akka pi example
+http://alvinalexander.com/scala/simple-akka-actors-remote-example
+http://alvinalexander.com/scala/scala-akka-actors-ping-pong-simple-example
+http://alvinalexander.com/scala/akka-remote-sending-objects-messages
+http://www.programcreek.com/java-api-examples/java.security.MessageDigest
+http://doc.akka.io/api/akka/2.0/akka/routing/RoundRobinRouter.html
+http://doc.akka.io/docs/akka/snapshot/scala/routing.html  - for client server
+http://www.reactive.io/tips/2014/03/28/getting-started-with-actor-based-programming-using-scala-and-akka/  - examples
